@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "server",
+	"label": "Server",
+	"connections": [],
+	"description": ""
+}
